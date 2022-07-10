@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Itoukee&count_private=true&theme=radical"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
-<!--
-**Itoukee/itoukee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Me, myself and I**
 
-Here are some ideas to get you started:
+I'm a french IT student living in Paris. Currently working as a Full-Stack Developer apprentice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 My current stack : React, React Native and Express 
+- 🌱 Learning every day and an insatiable motivation
+- ⚡ Be aware that if you want my help on a project, I need 2 coffees before
+
