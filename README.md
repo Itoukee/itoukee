@@ -11,4 +11,5 @@ I'm a french IT student living in Paris. Currently working as a Full-Stack Devel
 - 🔭 My current stack : React, React Native and Express 
 - 🌱 Learning every day and an insatiable motivation
 - ⚡ Be aware that if you want my help on a project, I need 2 coffees before
+- 💖 Node.js lover
 
