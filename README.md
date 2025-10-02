@@ -5,10 +5,9 @@
 
 # **Me, myself and I**
 
-I'm a french IT student living in Paris. Currently working as a Full-Stack Developer apprentice
+French Full Stack / Backend Developer. Currently working in a private bank.
 
-- 🔭 My current stack : MERN
 - 🌱 Learning every day and an insatiable motivation
 - ⚡ Be aware that if you want my help on a project, I need 2 coffees before
-- 💖 Node.js lover, Python enjoyer
+- 💖 Node.js, Python and C# enjoyer
 
